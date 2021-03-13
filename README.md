@@ -15,7 +15,7 @@
 		<img width="50px" src="https://github.com/SebastianArmata22/SebastianArmata22/blob/main/reactjs-icon.svg" alt="react">
 		<img width="50px" src="https://github.com/SebastianArmata22/SebastianArmata22/blob/main/redux.svg" alt="redux">
 		<img width="50px" src="https://github.com/SebastianArmata22/SebastianArmata22/blob/main/java-icon.svg" alt="java">
-		<img width="50px" src="https://github.com/SebastianArmata22/SebastianArmata22/blob/main/mysql-ar21.svg" alt="mysql">
+		<img width="50px" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql">
 	</span>
 	<div>
 		<h2>Contact</h2>
