@@ -2,7 +2,7 @@
 	<img src="https://github.com/SebastianArmata22/SebastianArmata22/blob/main/logo_armata.png" />
 	<h1>Hello, I'm Sebastian Armata</h1>
 	<h2>About me</h2>
-	<p>I am a third-year student of Applied Computer Science at the Cracow University of Technology. I'm 21. I've been interested in frontend for four years. I create websites based on HTML, CSS, JavaScript and React technologies.</p>
+	<p>I am a third-year student of Applied Computer Science at the Cracow University of Technology. I'm 21. I've been interested in frontend for two years. I create websites based on HTML, CSS, JavaScript and React technologies.</p>
 	<h2>What am I working on now?</h2>
 	<p> I am in the process of creating a project in a team of four supporting the management of a transport company.</p>
 	<h2>Skills</h2>
