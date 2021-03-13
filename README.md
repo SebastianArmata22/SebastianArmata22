@@ -19,8 +19,9 @@
 	</span>
 	<div>
 		<h2>Contact</h2>
-		<p>email: sebastian.armata22@gmail.com</p>
+		<p>Email: sebastian.armata22@gmail.com</p>
 		<p>Linkedin: https://www.linkedin.com/in/sebastian-armata/</p>
+		<p>Page: https://sebastianarmata.netlify.app/</p>
 	</div>
 </div>
 <!--
